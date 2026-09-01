@@ -2,9 +2,9 @@
 
 ### Professor de Matemática e Física | Estudante de Engenharia da Computação
 
-Sou professor de **Matemática e Física** e estudante de **Engenharia da Computação na UNIVESP**.
+Sou professor de **Matemática e Física** e estudante de **Engenharia da Computação**.
 
-Minha trajetória une duas áreas que sempre fizeram parte da minha vida: **educação e tecnologia**.
+Minha trajetória une duas áreas que sempre fizeram parte da minha vida: **Educação e Tecnologia**.
 
 Atualmente, estou aprofundando meus conhecimentos em programação, algoritmos, estruturas de dados, engenharia de software e desenvolvimento de aplicações.
 
@@ -59,6 +59,7 @@ Atualmente desenvolvendo conhecimentos em programação, algoritmos, estruturas 
 ### Matemática e Física
 
 Professor com experiência em ensino de Matemática e Física, áreas que contribuem diretamente para minha formação em computação através do raciocínio lógico, pensamento analítico e resolução de problemas.
+Formado em Física pela UNESP e Matemática pela UNISAL
 
 ---
 
